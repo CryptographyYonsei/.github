@@ -13,6 +13,6 @@ In cryptography, a side-channel attack is an attack in which a cryptosystem or s
 | **Sunjun Hwang** | Team Leader and Deeplearning developer and Hardware Developer | [GIT](https://github.com/justinbrianhwang)  |
 | **Kwanho Kim** | Data collect and Report feedback | [GIT](https://github.com/kgh1232) |
 | **Sungho Oh** | Data collect and Report feedback | [GIT](https://github.com/cod-Allen) |
-| **Keonhyeong Yoo** | Presentation | [Email or GitHub] |
+| **Keonhyeong Yoo** | Presentation | [GIT](https://github.com/Conneryoo) |
 | **Jihyeok Ha** | Assist with experiments and help develop deep learning | [GIT](https://github.com/hajihyeok) |
 
