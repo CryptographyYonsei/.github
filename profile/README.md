@@ -5,7 +5,8 @@ In cryptography, a side-channel attack is an attack in which a cryptosystem or s
 
 
 ### LOGO 
-![download](https://github.com/user-attachments/assets/9184b2ba-6190-42c6-8a8a-c7e20e7c898e)
+![ChatGPT Image 2025년 4월 3일 오전 08_47_37](https://github.com/user-attachments/assets/26aeca3f-191d-4926-8fff-4605f129806a)
+
 
 ## Team Members
 | Name  | Role | Contact |
